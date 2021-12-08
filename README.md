@@ -4,15 +4,15 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
+- 💻  &nbsp; I am a frontend Developer specializing in javaScript || TypeScript  && React.
 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp;I have 2yrs self taught programming experience in javaScript but recently got a job after graduation.
 
 - 🎓 &nbsp; A graduate with Bsc Electrical and Electronic Engineering.
 
-  🤔 &nbsp;I have 2yrs self taught programming experience in javaScript but recently got a job after graduation.
-  
-  - ✍️ &nbsp; Open to new opportunities both locally and remote🤔.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- ✍️ &nbsp; Open to new opportunities both locally and remote🤔.
   
 - 🌱 &nbsp; Learning more about web3 and will be diving into it next year.
 
