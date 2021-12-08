@@ -39,6 +39,7 @@
 
 
 
+
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; Solidity | Dart | Flutter | NFT
@@ -49,7 +50,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THEO-184&show_icons=true)](https://github.com/shivam0110)
+[![Theophilus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=THEO-184&show_icons=true)](https://github.com/shivam0110)
 
 <br/>
 
@@ -75,13 +76,13 @@
 
 <p align="center">
 
-<a href="https://theoboakye-frontendportfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://theoboakye-frontendportfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Theophilus.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/theophilus-boakye-yiadom-142a071a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/theophilus-boakye-yiadom-142a071a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Theophilus%20Boakye-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://twitter.com/tbyiadom1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:theophilusboakye47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:theophilusboakye47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-theophilusboakye47@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
@@ -89,7 +90,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=theophilusboakye.theo)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
