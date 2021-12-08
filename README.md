@@ -80,7 +80,7 @@
 
 <a href="https://www.linkedin.com/in/theophilus-boakye-yiadom-142a071a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Theophilus%20Boakye-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://twitter.com/tbyiadom1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/tbyiadom1"><img alt="twitter" src="https://img.shields.io/badge/twitter?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:theophilusboakye47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-theophilusboakye47@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
