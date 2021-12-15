@@ -7,8 +7,6 @@
 
 - 💻  &nbsp; I am a frontend Developer specializing in javaScript || TypeScript  && React.
 
-- 🤔 &nbsp;I have 2yrs self taught programming experience in javaScript but recently got a job after graduation.
-
 - 🎓 &nbsp; A graduate with Bsc Electrical and Electronic Engineering.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
