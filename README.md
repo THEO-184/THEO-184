@@ -5,7 +5,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-- 💻  &nbsp; I am a frontend Developer specializing in javaScript || TypeScript  && React.
+- 💻  &nbsp;Proficient in developing test proven quality web User interfaces with React && javaScript || Typescript.
 
 - 🎓 &nbsp; A graduate with Bsc Electrical and Electronic Engineering.
 
@@ -13,11 +13,7 @@
 
 - ✍️ &nbsp; Open to new opportunities both locally and remote🤔.
   
-- 🌱 &nbsp; Learning more about web3 and will be diving into it next year.
-
-- ✍️ &nbsp; My hobbie is solving javascript || TypeScript coding challenges on Codewars🤔.
-
-
+- ✍️ &nbsp; My hobbie is solving javascript || TypeScript coding challenges on Codewars and building personal fun projects right from inception to deployment🤔.
 
 <h3>🛠 Tech Stack</h3>
 
