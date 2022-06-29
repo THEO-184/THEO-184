@@ -4,7 +4,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-- 💻  &nbsp;Proficient in developing test proven quality web User interfaces with React && javaScript || Typescript.
+- 💻  &nbsp;Proficient in web development with MERN stack and related tools.
 
 - 🎓 &nbsp; A graduate with Bsc Electrical and Electronic Engineering.
 
@@ -23,11 +23,9 @@
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; Typescript | Javascript | React | Redux | MongoDB | Node | Express
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🔧 &nbsp; Git | Redux Saga | React Query | Redux RTK
 
 -->
 
