@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp; JavaScript | TypeScript | React | Redux(RTK,Saga) | CSS/SASS | Styled Components | Material UI
+- 💻 &nbsp;  Typescript | Javascript | React | Redux | MongoDB | Node | Express
 
 
 <!--
@@ -53,8 +53,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THEO-184&show_icons=true)
 
 <br><br>
-
-
 
 <hr>
 
