@@ -4,7 +4,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-- 💻  &nbsp;Proficient in web development with MERN stack and related tools.
+- 💻  &nbsp;Proficient in web development with MERN stack with Typescript and related tools.
 
 - 🎓 &nbsp; A graduate with Bsc Electrical and Electronic Engineering.
 
